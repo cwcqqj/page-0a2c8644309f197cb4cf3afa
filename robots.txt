@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-cbd8069745.jinghaiqiche.cn/sitemap.xml
